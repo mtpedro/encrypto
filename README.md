@@ -3,7 +3,7 @@
 This is a very simple library for encrypting and decrypting data with a priavte, 32 byte, key.
 
 # example: 
-`
+```
 package main
 import (
 	"github.com/mtpedro/encrypto"
@@ -25,4 +25,4 @@ func main() {
 	
 	fmt.Println(decrypted_data);
 }
-`
+```
